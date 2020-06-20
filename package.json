@@ -1,0 +1,13 @@
+{
+  "name": "npm-update-force",
+  "version": "1.0.0",
+  "description": "Updates every package in package.json to it's latest version",
+  "license": "ISC",
+  "author": "Dustin Dowell",
+  "bin": {
+    "npm-update-force": "./index.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
