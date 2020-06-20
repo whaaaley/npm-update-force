@@ -18,4 +18,4 @@ $ npm-update-force
 
 ## Preview
 
-![preview](preview.png)
+![preview](https://raw.githubusercontent.com/whaaaley/npm-update-force/master/preview.png)
