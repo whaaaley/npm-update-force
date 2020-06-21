@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Updates every package in package.json to it's latest version",
   "repository": {
-    "url": "git://github.com/whaaaley/npm-update-force.git"
+    "url": "whaaaley/npm-update-force"
   },
   "license": "ISC",
   "author": "Dustin Dowell",
