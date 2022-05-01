@@ -10,7 +10,7 @@ const data = JSON.parse(fs.readFileSync(path.resolve('package.json')))
 const deps = {
   'npm i': data.dependencies,
   '; npm i -D': data.devDependencies,
-  '; npm i -O': data.optionalDependencies
+  '; npm i --save-optional': data.optionalDependencies
 }
 
 let cmd = ''
